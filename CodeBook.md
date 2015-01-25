@@ -12,5 +12,5 @@ Each of the file is read in and named with a internal variable equivalent to the
 
 Another data set is created with just the features (measures) that represent a mean or a standard deviation this data set is called mean_std_all
 
-The final third data set is created off the mean_std set.  This set aggregates the data so there is only 1 row for each subject and activity and named summary_data.   Reducing the rows from over 10,000 to just 180.  Each of the measures now become an average (reminding myself that this isn’t data I’m using and it is okay to average an average and unsure what a averages of a standard deviation would really be).
+The final third data set is created off the mean_std set.  This set aggregates the data so there is only 1 row for each subject and activity and named summary_data.   Reducing the rows from over 10,000 to just 180.  Each of the measures now become an average (reminding myself that this isn’t data I’m using and it is okay to average an average and unsure what a averages of a standard deviation would really be).  This data set is saved to a text file under the name of summary.txt.
 
